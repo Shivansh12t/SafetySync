@@ -1,0 +1,1 @@
+// We appreciate your interest in the code behind this project. While the source code itself is not publicly available, we'd be happy to provide a high-level overview of the functionalities and the problem it solves. Additionally, you can find public documentation for the project in the README or you can mail to tuteja101@gmail.com.
